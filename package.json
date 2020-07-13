@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "browser": {
-    "dgram": "./UdpSockets.js"
+    "dgram": "react-native-udp"
   },
   "repository": {
     "type": "git",
